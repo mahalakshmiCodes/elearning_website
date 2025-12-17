@@ -1,0 +1,110 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(236, 252, 255);
+    padding: 4px;
+
+}
+.box0{
+    flex-grow: 1;
+    font-size: 30px;
+    color: rgb(23, 202, 230);
+    font-weight: bolder;
+}
+.b{
+    padding: 16px;
+}
+a{
+    text-decoration-line: none;
+    position: relative;
+    top: 5px;
+}
+a:hover{
+    color: rgb(23, 202, 230);;
+}
+.book{
+    font-size: 30px;
+    position: relative;
+    top: 16px;
+    left: 8px;
+    color: rgb(23, 202, 230);
+}
+.box6{
+   
+    width: 90px;
+}
+#id1{
+    color: rgb(23, 202, 230);
+}
+
+.container2{
+    display: grid;
+    grid-template-columns: 280px 280px 280px 280px;
+    grid-template-rows: 280px 280px 280px 280px;
+    gap: 40px;
+    position: relative;
+    left: 130px;
+
+}
+#h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1{
+    background-color: rgb(230, 251, 252);
+}
+.a2{
+    background-color: rgb(230, 251, 252);
+}
+.a3{
+    background-color: rgb(230, 251, 252);
+}
+.a4{
+    background-color: rgb(230, 251, 252);
+}
+.a:hover {
+    background-color:  rgb(75, 190, 225);
+    position: relative;
+    color: aliceblue;
+    bottom: 30px;
+}
+.img{
+    font-size: 35px;
+    color: rgb(0, 190, 220);
+}
+.a{
+    text-align: center;
+}
+.cls1{
+    position: relative;
+    top: 30px;
+    padding: 10px;
+    line-height: 22px;
+}
+.cls2{
+    position: relative;
+    top: 30px;
+     padding: 10px;
+    line-height: 22px;
+}
+.cls3{
+    position: relative;
+    top: 30px;
+     padding: 10px;
+    line-height: 22px;
+}
+.cls4{
+    position: relative;
+    top: 30px;
+     padding: 10px;
+    line-height: 22px;
+}
+.container12{
+    height: 600px;
+    background-image: url("https://img.freepik.com/free-vector/geometric-science-education-background-vector-gradient-blue-digital-remix_53876-125993.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    bottom: 30px;
+}
+
+

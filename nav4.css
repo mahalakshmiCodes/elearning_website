@@ -1,0 +1,78 @@
+.catt{
+    color: rgb(23, 202, 230);
+    position: relative;
+    left: 700px;
+    bottom: 1850px;
+}
+.catt1{
+    position: relative;
+    left: 600px;
+    bottom: 1880px;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.container5{
+    position: relative;
+    top: 250px;
+}
+.container6{
+    display: grid;
+    grid-template-columns: 450px 450px 450px;
+    grid-template-rows: 500px 540px 540px;
+    justify-content: center;
+    position: relative;
+    bottom: 1610px;
+    gap: 40px;
+}
+.qq1{
+    background-color:  rgb(226, 251, 255);
+}
+.qq2{
+    background-color:  rgb(226, 251, 255);
+}
+.qq3{
+    background-color:   rgb(226, 251, 255);
+}
+#ma{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#maa{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+#it{
+    text-align: center;
+    color:  rgb(23, 202, 230);
+     position: relative;
+    bottom: 20px;
+}
+#gap{
+    position: relative;
+    left: 80px;
+}
+#g2{
+    position: relative;
+    left: 80px;
+}
+#g6{
+    position: relative;
+    left: 120px;
+}
+#g5{
+    position: relative;
+    left: 120px;
+}
+#g4{
+    position: relative;
+    left: 100px;
+}
+#g3{
+    position: relative;
+    left: 100px;
+}

@@ -1,0 +1,160 @@
+.cart{
+    color: rgb(23, 202, 230);
+    position: relative;
+    left: 700px;
+    bottom: 4165px;
+}
+.carrt{
+    position: relative;
+    left: 600px;
+    bottom: 4200px;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.container9{
+    position: relative;
+    top: 160px;
+}
+.container91{
+    display: grid;
+    grid-template-columns: 450px 450px 450px 450px ;
+    grid-template-rows: 350px 400px 400px 400px;
+    position: relative;
+    bottom: 4080px;
+    left: 70px;
+    gap: 20px;
+}
+
+#up{
+    text-align: center;
+   position: relative;
+   top:95px;
+   text-align: justify;
+   padding: 20px;
+   border: 1px solid black;
+   background-color:   rgb(0, 184, 212);
+   color:aliceblue;
+}
+#stu{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#stud{
+    text-align: center;
+    position: relative;
+    top: 75px;
+}
+#imgids{
+    border-radius: 100px;
+   position: relative;
+   left: 150px;
+   top: 50px;
+}
+.container10{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 5200px;
+    height: 350px;
+}
+#tr{
+    color: white;
+    position: relative;
+    left: 300px;
+    top: 60px;
+}
+.tr{
+    font-size: 25px;
+    position: relative;
+  
+    top: px;
+}
+.font{
+    color: white;
+    font-size: 35px;
+    position: relative;
+    top: 50px;
+    left: 270px;
+}
+.font2{
+    color: white;
+    font-size: 35px;
+    position: relative;
+    top:10px;
+    left: 20px;
+}
+#tr:hover{
+    font-size: 17px;
+}
+.container101{
+    position: relative;
+    left: 700px;
+    bottom: 5545px;
+}
+#uuu{
+    display: inline;
+}
+.iii{
+    position: relative;
+    right: 25px;
+    top: 30px;
+color: white;
+}
+.iii2{
+    position: relative;
+    right: 25px;
+    color: white;
+}
+#oooo{
+    color: white;
+}
+#ii2{
+    position: relative;
+    bottom: 35px;
+    color: white;
+}
+.iii3{
+    position: relative;
+    right: 25px;
+    bottom: 30px;
+    color: white;
+}
+#ii3{
+    position: relative;
+    bottom: 65px;
+    color: white;
+}
+.font3{
+    font-size: 35px;
+    color: white;
+    position: relative;
+    left: 1050px;
+    bottom: 5908px;
+}
+.container11{
+    position: relative;
+    top: 80px;
+}
+#buttonn{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 290px;
+    color: black;
+    position: relative;
+    bottom: 5895px;
+    left: 1050px;
+}
+#ll{
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    width: 80px;
+    text-align: center;
+    position: relative;
+    bottom: 5965px;
+    left: 1230px;
+    color: white;
+}

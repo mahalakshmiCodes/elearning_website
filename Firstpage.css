@@ -1,0 +1,14 @@
+.container2{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 300px 300px 300px;
+}
+.a1{
+    background-color: blanchedalmond;
+}
+.a2{
+    background-color: blanchedalmond;
+}
+.a3{
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,62 @@
+#sign{
+    text-align: center;
+    position: relative;
+    top: 130px;
+}
+body{
+    border: 5px solid rgb(126, 126, 126);
+    border-radius: 10px;
+    background: linear-gradient(to top, rgb(237, 205, 205), rgb(255, 222, 222));
+}
+.container31{
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 20px;
+    padding: 60px;
+    color: white;
+    font-size: 25px;
+    background: linear-gradient(to right, rgb(221, 8, 221), rgb(255, 255, 96));
+    visibility: 10px;
+    position: relative;
+    left: 550px;
+    top: 160px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+
+}
+#inp1{
+    position: relative;
+    left: 46px;
+}
+#inp2{
+    position: relative;
+    left: 39px;
+}
+#inp3{
+    position: relative;
+    left: 14px;
+}
+a{
+    text-decoration: none;}
+
+#a{
+      position: relative;
+   left: 100px;
+   top: 20px;
+   padding: 9px;
+   color: black;
+   border-radius: 6px ;
+   background-color: rgb(255, 239, 194);
+}
+.signed2{
+    position: relative;
+    top: 300px;
+    left: 600px;
+}
+#imgg2{
+    position: relative;
+    left: 650px;
+    top: 300px;
+}
